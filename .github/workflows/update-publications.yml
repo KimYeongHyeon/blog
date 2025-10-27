@@ -1,0 +1,44 @@
+name: Update Publications from Google Scholar
+
+on:
+  schedule:
+    # 매주 월요일 오전 9시 (UTC 기준 00:00 = KST 09:00)
+    - cron: '0 0 * * 1'
+  workflow_dispatch: # 수동 실행 가능
+
+jobs:
+  update-publications:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+    
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.10'
+    
+    - name: Install dependencies
+      run: |
+        pip install -r requirements.txt
+    
+    - name: Update publications
+      run: |
+        python scripts/update_publications.py
+    
+    - name: Commit and push changes
+      run: |
+        git config --local user.email "github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "github-actions[bot]"
+        
+        if git diff --quiet; then
+          echo "No changes to commit"
+        else
+          git add content/publications.md
+          git commit -m "🤖 Auto-update publications from Google Scholar"
+          git push
+        fi
+
