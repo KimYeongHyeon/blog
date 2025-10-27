@@ -1,12 +1,12 @@
 baseURL = 'https://kimyeonghyeon.github.io/blog/'
 languageCode = 'en-us'
-title = 'Research Portfolio'
+title = 'Kim YeongHyeon'
 theme = 'PaperMod'
 
 [params]
 env = "production"
-description = "Academic researcher portfolio and publications"
-author = "Your Name"
+description = "PhD Student in Biomedical AI | Medical Image Analysis Research"
+author = "Kim YeongHyeon"
 
 # Theme settings
 defaultTheme = "auto"
@@ -27,8 +27,8 @@ tocopen = false
 # Profile mode
 [params.profileMode]
 enabled = true
-title = "Your Name"
-subtitle = "Research Scientist | PhD Student"
+title = "Kim YeongHyeon"
+subtitle = "PhD Student | Biomedical AI Researcher"
 imageUrl = "profile.jpg"
 imageTitle = "Profile Picture"
 imageWidth = 120
@@ -49,7 +49,7 @@ url = "/cv.pdf"
 # Social icons
 [[params.socialIcons]]
 name = "email"
-url = "mailto:your.email@example.com"
+url = "mailto:yeonghyeon.kim4@gmail.com"
 
 [[params.socialIcons]]
 name = "googlescholar"
@@ -57,15 +57,11 @@ url = "https://scholar.google.co.kr/citations?user=cLAlajcAAAAJ&hl=ko"
 
 [[params.socialIcons]]
 name = "github"
-url = "https://github.com/"
+url = "https://github.com/KimYeongHyeon"
 
 [[params.socialIcons]]
 name = "linkedin"
-url = "https://linkedin.com/"
-
-[[params.socialIcons]]
-name = "twitter"
-url = "https://twitter.com/"
+url = "https://www.linkedin.com/in/yeonghyeon-kim/"
 
 # Menu
 [[menu.main]]
