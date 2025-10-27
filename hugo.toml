@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://kimyeonghyeon.github.io/blog/'
 languageCode = 'en-us'
 title = 'Research Portfolio'
 theme = 'PaperMod'
