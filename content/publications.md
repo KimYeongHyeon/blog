@@ -10,77 +10,63 @@ summary: "Research Publications"
 ### 2025
 
 **Quantification of left ventricular mass in multiple views of echocardiograms using model-agnostic meta learning in a few-shot setting**  
-**YeongHyeon Kim**, D Kim, JY Youm, J Won, S Kim, W Park, Y Kim, D Lee  
-*PeerJ Computer Science 11, e3161*  
-[[Paper]](https://scholar.google.co.kr/citations?view_op=view_citation&hl=ko&user=cLAlajcAAAAJ&citation_for_view=cLAlajcAAAAJ:W7OEmFMy1HYC)
-
-> This research applies model-agnostic meta learning to quantify left ventricular mass from echocardiogram images in a few-shot learning setting, addressing the challenge of limited medical imaging data.
+Yeong Hyeon Kim and Donghoon Kim and Jin Young Youm and Jiyoon Won and Seola Kim and Woohyun Park and Yisak Kim and Dongheon Lee  
+*Unknown Venue*  
+[[Paper]](https://peerj.com/articles/cs-3161/)
 
 ---
 
 ### 2020
 
 **Combining obstacle avoidance and visual simultaneous localization and mapping for indoor navigation**  
-SG Jin, MU Ahmed, JW Kim, **YeongHyeon Kim**, PK Rhee  
-*Symmetry 12 (1), 119*  
-[[Paper]](https://scholar.google.co.kr/citations?view_op=view_citation&hl=ko&user=cLAlajcAAAAJ&citation_for_view=cLAlajcAAAAJ:2osOgNQ5qMEC) • 16 citations
-
-> Presents a novel approach combining obstacle avoidance with visual SLAM for robust indoor navigation systems.
+SongGuo Jin and Minhaz Uddin Ahmed and Jin Woo Kim and Yeong Hyeon Kim and Phill Kyu Rhee  
+*Unknown Venue*  
+[[Paper]](https://www.mdpi.com/2073-8994/12/1/119) • 16 citations
 
 ---
 
-**EER-ASSL: Combining Rollback Learning and Deep Learning for Rapid Adaptive Object Detection**  
-MU Ahmed, **YeongHyeon Kim**, PK Rhee  
-*KSII Transactions on Internet & Information Systems 14 (12)*  
-[[Paper]](https://scholar.google.co.kr/citations?view_op=view_citation&hl=ko&user=cLAlajcAAAAJ&citation_for_view=cLAlajcAAAAJ:zYLM7Y9cAGgC) • 9 citations
-
-> Introduces an efficient error-reduction active semi-supervised learning approach that combines rollback learning with deep learning for rapid adaptive object detection.
+**EER-ASSL: Combining Rollback Learning and Deep Learning for Rapid Adaptive Object Detection.**  
+Minhaz Uddin Ahmed and Yeong Hyeon Kim and Phill Kyu Rhee  
+*Unknown Venue*  
+[[Paper]](https://www.researchgate.net/profile/Minhaz-Ahmed-3/publication/349302942_EER-ASSL_Combining_Rollback_Learning_and_Deep_Learning_for_Rapid_Adaptive_Object_Detection/links/6029339fa6fdcc37a8255efa/EER-ASSL-Combining-Rollback-Learning-and-Deep-Learning-for-Rapid-Adaptive-Object-Detection.pdf) • 9 citations
 
 ---
 
 **Dynamic MLML-tree based adaptive object detection using heterogeneous data distribution**  
-DK Shin, MU Ahmed, **YeongHyeon Kim**, PK Rhee  
-*Multimedia Tools and Applications 79 (9), 6689-6708*  
-[[Paper]](https://scholar.google.co.kr/citations?view_op=view_citation&hl=ko&user=cLAlajcAAAAJ&citation_for_view=cLAlajcAAAAJ:IjCSPb-OGe4C) • 1 citation
-
-> Proposes a dynamic multi-label multi-learning tree method for adaptive object detection in heterogeneous data environments.
+Dong Kyun Shin and Minhaz Uddin Ahmed and Yeong Hyeon Kim and Phill Kyu Rhee  
+*Unknown Venue*  
+[[Paper]](https://link.springer.com/article/10.1007/s11042-019-08285-7) • 1 citations
 
 ---
 
 ### 2019
 
 **Two person interaction recognition based on effective hybrid learning**  
-MU Ahmed, **YeongHyeon Kim**, JW Kim, MR Bashar, PK Rhee  
-*KSII Transactions on Internet and Information Systems (TIIS) 13 (2), 751-770*  
-[[Paper]](https://scholar.google.co.kr/citations?view_op=view_citation&hl=ko&user=cLAlajcAAAAJ&citation_for_view=cLAlajcAAAAJ:Tyk-4Ss8FVUC) • 8 citations
-
-> Develops an effective hybrid learning approach for recognizing two-person interactions in video sequences.
+Minhaz Uddin Ahmed and Yeong Hyeon Kim and Jin Woo Kim and Md Rezaul Bashar and Phill Kyu Rhee  
+*Unknown Venue*  
+[[Paper]](https://www.researchgate.net/profile/Minhaz-Ahmed-3/publication/331562880_Two_person_Interaction_Recognition_Based_on_Effective_Hybrid_Learning/links/5c80b90192851c69505c8d5b/Two-person-Interaction-Recognition-Based-on-Effective-Hybrid-Learning.pdf) • 9 citations
 
 ---
 
 **Hierarchical open-set object detection in unseen data**  
-**YeongHyeon Kim**, DK Shin, MU Ahmed, PK Rhee  
-*Symmetry 11 (10), 1271*  
-[[Paper]](https://scholar.google.co.kr/citations?view_op=view_citation&hl=ko&user=cLAlajcAAAAJ&citation_for_view=cLAlajcAAAAJ:UeHWp8X0CEIC) • 3 citations
-
-> Introduces a hierarchical approach for open-set object detection that can handle previously unseen object categories.
+Yeong Hyeon Kim and Dong Kyun Shin and Minhaz Uddin Ahmed and Phill Kyu Rhee  
+*Unknown Venue*  
+[[Paper]](https://www.mdpi.com/2073-8994/11/10/1271) • 3 citations
 
 ---
 
 ### 2018
 
 **Wild facial expression recognition based on incremental active learning**  
-MU Ahmed, KJ Woo, **KY Hyeon**, MR Bashar, PK Rhee  
-*Cognitive Systems Research 52, 212-222*  
-[[Paper]](https://scholar.google.co.kr/citations?view_op=view_citation&hl=ko&user=cLAlajcAAAAJ&citation_for_view=cLAlajcAAAAJ:qjMakFHDy7sC) • 33 citations
-
-> Proposes an incremental active learning method for facial expression recognition in unconstrained (wild) environments, achieving robust performance with minimal labeled data.
+Minhaz Uddin Ahmed and Kim Jin Woo and Kim Yeong Hyeon and Md Rezaul Bashar and Phill Kyu Rhee  
+*Unknown Venue*  
+[[Paper]](https://www.sciencedirect.com/science/article/pii/S1389041718301189) • 33 citations
 
 ---
 
 ## Citation Statistics
 
-- **Total Citations:** 70
+- **Total Citations:** 71
 - **h-index:** 4
 - **i10-index:** 2
 - [Google Scholar Profile](https://scholar.google.co.kr/citations?user=cLAlajcAAAAJ&hl=ko)
@@ -98,5 +84,4 @@ MU Ahmed, KJ Woo, **KY Hyeon**, MR Bashar, PK Rhee
 
 ---
 
-*Last updated: October 2025*
-
+*Last updated: November 2025*
