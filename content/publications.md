@@ -25,10 +25,10 @@ SongGuo Jin and Minhaz Uddin Ahmed and Jin Woo Kim and Yeong Hyeon Kim and Phill
 
 ---
 
-**EER-ASSL: Combining Rollback Learning and Deep Learning for Rapid Adaptive Object Detection.**  
+**EER-ASSL: combining rollback learning and deep learning for rapid adaptive object detection**  
 Minhaz Uddin Ahmed and Yeong Hyeon Kim and Phill Kyu Rhee  
 *Unknown Venue*  
-[[Paper]](https://www.researchgate.net/profile/Minhaz-Ahmed-3/publication/349302942_EER-ASSL_Combining_Rollback_Learning_and_Deep_Learning_for_Rapid_Adaptive_Object_Detection/links/6029339fa6fdcc37a8255efa/EER-ASSL-Combining-Rollback-Learning-and-Deep-Learning-for-Rapid-Adaptive-Object-Detection.pdf) • 9 citations
+[[Paper]](https://koreascience.kr/article/JAKO202009135419631.page) • 9 citations
 
 ---
 
@@ -44,7 +44,7 @@ Dong Kyun Shin and Minhaz Uddin Ahmed and Yeong Hyeon Kim and Phill Kyu Rhee
 **Two person interaction recognition based on effective hybrid learning**  
 Minhaz Uddin Ahmed and Yeong Hyeon Kim and Jin Woo Kim and Md Rezaul Bashar and Phill Kyu Rhee  
 *Unknown Venue*  
-[[Paper]](https://www.researchgate.net/profile/Minhaz-Ahmed-3/publication/331562880_Two_person_Interaction_Recognition_Based_on_Effective_Hybrid_Learning/links/5c80b90192851c69505c8d5b/Two-person-Interaction-Recognition-Based-on-Effective-Hybrid-Learning.pdf) • 9 citations
+[[Paper]](https://koreascience.kr/article/JAKO201914260133313.page) • 9 citations
 
 ---
 
@@ -60,13 +60,13 @@ Yeong Hyeon Kim and Dong Kyun Shin and Minhaz Uddin Ahmed and Phill Kyu Rhee
 **Wild facial expression recognition based on incremental active learning**  
 Minhaz Uddin Ahmed and Kim Jin Woo and Kim Yeong Hyeon and Md Rezaul Bashar and Phill Kyu Rhee  
 *Unknown Venue*  
-[[Paper]](https://www.sciencedirect.com/science/article/pii/S1389041718301189) • 33 citations
+[[Paper]](https://www.sciencedirect.com/science/article/pii/S1389041718301189) • 34 citations
 
 ---
 
 ## Citation Statistics
 
-- **Total Citations:** 71
+- **Total Citations:** 72
 - **h-index:** 4
 - **i10-index:** 2
 - [Google Scholar Profile](https://scholar.google.co.kr/citations?user=cLAlajcAAAAJ&hl=ko)
@@ -84,4 +84,4 @@ Minhaz Uddin Ahmed and Kim Jin Woo and Kim Yeong Hyeon and Md Rezaul Bashar and 
 
 ---
 
-*Last updated: December 2025*
+*Last updated: January 2026*
