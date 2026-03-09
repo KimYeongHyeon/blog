@@ -25,7 +25,7 @@ SongGuo Jin and Minhaz Uddin Ahmed and Jin Woo Kim and Yeong Hyeon Kim and Phill
 
 ---
 
-**EER-ASSL: combining rollback learning and deep learning for rapid adaptive object detection**  
+**EER-ASSL: Combining rollback learning and deep learning for rapid adaptive object detection**  
 Minhaz Uddin Ahmed and Yeong Hyeon Kim and Phill Kyu Rhee  
 *Unknown Venue*  
 [[Paper]](https://koreascience.kr/article/JAKO202009135419631.page) • 9 citations
@@ -84,4 +84,4 @@ Minhaz Uddin Ahmed and Kim Jin Woo and Kim Yeong Hyeon and Md Rezaul Bashar and 
 
 ---
 
-*Last updated: January 2026*
+*Last updated: March 2026*
