@@ -44,7 +44,7 @@ Dong Kyun Shin and Minhaz Uddin Ahmed and Yeong Hyeon Kim and Phill Kyu Rhee
 **Two person interaction recognition based on effective hybrid learning**  
 Minhaz Uddin Ahmed and Yeong Hyeon Kim and Jin Woo Kim and Md Rezaul Bashar and Phill Kyu Rhee  
 *Unknown Venue*  
-[[Paper]](https://www.researchgate.net/profile/Minhaz-Ahmed-3/publication/331562880_Two_person_Interaction_Recognition_Based_on_Effective_Hybrid_Learning/links/5c80b90192851c69505c8d5b/Two-person-Interaction-Recognition-Based-on-Effective-Hybrid-Learning.pdf) • 9 citations
+[[Paper]](http://itiis.org/digital-library/manuscript/file/22005/TIISVol13No2-15.pdf) • 9 citations
 
 ---
 
@@ -84,4 +84,4 @@ Minhaz Uddin Ahmed and Kim Jin Woo and Kim Yeong Hyeon and Md Rezaul Bashar and 
 
 ---
 
-*Last updated: April 2026*
+*Last updated: May 2026*
