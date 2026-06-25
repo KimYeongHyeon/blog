@@ -1,0 +1,31 @@
+.post-content {
+  line-height: 1.75;
+}
+
+.post-content h2 {
+  border-bottom: 1px solid var(--border);
+  margin-top: 2.6rem;
+  padding-bottom: 0.35rem;
+}
+
+.post-content h3 {
+  margin-top: 1.8rem;
+  margin-bottom: 0.35rem;
+}
+
+.post-content p {
+  margin-bottom: 0.85rem;
+}
+
+.post-content ul {
+  margin-top: 0.45rem;
+  margin-bottom: 1.15rem;
+}
+
+.post-content li + li {
+  margin-top: 0.35rem;
+}
+
+.post-content hr {
+  margin: 2rem 0;
+}

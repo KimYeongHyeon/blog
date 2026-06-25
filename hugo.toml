@@ -45,7 +45,7 @@ url = "/projects"
 # Social icons
 [[params.socialIcons]]
 name = "email"
-url = "mailto:yeonghyeon.kim4@gmail.com"
+url = "mailto:yeonghyeon.kim@snu.ac.kr"
 
 [[params.socialIcons]]
 name = "googlescholar"
