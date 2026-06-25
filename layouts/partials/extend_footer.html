@@ -1,0 +1,15 @@
+{{- if .IsPage -}}
+<script>
+  (() => {
+    const query = window.matchMedia("(min-width: 1180px)");
+    const syncToc = () => {
+      document.querySelectorAll(".toc details").forEach((details) => {
+        details.open = query.matches;
+      });
+    };
+
+    syncToc();
+    query.addEventListener("change", syncToc);
+  })();
+</script>
+{{- end -}}

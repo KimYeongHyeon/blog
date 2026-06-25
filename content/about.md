@@ -75,7 +75,13 @@ My work connects two tracks: robust medical imaging methods, especially CT metal
 
 ## Invited Talks
 
-Confirmed invited talks will be added here.
+### SNU AI.MED 26 Gwanak
+**Iterative virtual clinical trial simulation: multi-agent collaboration-based automated real-world evidence generation system**
+
+*Student Research Presentation, SNU AI.MED 26 Gwanak, Seoul National University | Jun 19, 2026*
+
+- Presented in Session 2 of the 2026-1 SNU Medical AI Convergence Talent Training Program Performance Sharing Meeting
+- Venue: Seoul National University Gwanak Campus 43-2 B102
 
 ## Selected Publications
 

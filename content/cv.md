@@ -118,7 +118,15 @@ Core topics: CT metal artifact reduction, few-shot learning, target-trial emulat
 
 ## Invited Talks
 
-Confirmed invited talks will be added here.
+### SNU AI.MED 26 Gwanak
+**Iterative virtual clinical trial simulation: multi-agent collaboration-based automated real-world evidence generation system**
+
+*Student Research Presentation, SNU AI.MED 26 Gwanak, Seoul National University | Jun 19, 2026*
+
+- Presented in Session 2, Student Research Presentations.
+- Event: 2026-1 Semester SNU Medical AI Convergence Talent Training Program Performance Sharing Meeting.
+- Venue: Seoul National University Gwanak Campus 43-2 B102, Seoul, Republic of Korea.
+- Original title: "반복적 가상 임상시험 시뮬레이션: 멀티에이전트 협업 기반 실사용근거 생성 자동화 시스템."
 
 ## Selected Publications
 

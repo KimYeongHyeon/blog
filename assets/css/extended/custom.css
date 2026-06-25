@@ -1,5 +1,6 @@
 .post-content {
   line-height: 1.75;
+  text-wrap: pretty;
 }
 
 .post-content h2 {
@@ -28,4 +29,145 @@
 
 .post-content hr {
   margin: 2rem 0;
+}
+
+.toc {
+  background: color-mix(in srgb, var(--entry) 88%, transparent);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  box-shadow: none;
+  padding: 0.75rem;
+}
+
+.toc details summary {
+  border-radius: 6px;
+  cursor: pointer;
+  list-style: none;
+  margin-inline-start: 0;
+  padding: 0.35rem 0.45rem;
+  transition:
+    background-color 150ms ease-out,
+    color 150ms ease-out;
+}
+
+.toc details summary::-webkit-details-marker {
+  display: none;
+}
+
+.toc details summary:hover {
+  background: var(--code-bg);
+}
+
+.toc summary:focus-visible {
+  outline: 2px solid var(--secondary);
+  outline-offset: 2px;
+}
+
+.toc .details {
+  color: var(--primary);
+  font-size: 0.85rem;
+  font-weight: 600;
+}
+
+.toc .inner {
+  margin: 0.5rem 0 0;
+  max-height: 55dvh;
+  overflow: auto;
+  padding: 0 0.25rem 0 0.45rem;
+}
+
+.toc ul {
+  list-style: none;
+  margin: 0;
+  padding-inline-start: 0;
+}
+
+.toc li {
+  margin-top: 0.3rem;
+}
+
+.toc li ul {
+  border-left: 1px solid var(--border);
+  margin: 0.3rem 0 0 0.35rem;
+  padding-left: 0.65rem;
+}
+
+.toc a {
+  border-radius: 6px;
+  color: var(--secondary);
+  display: block;
+  font-size: 0.82rem;
+  line-height: 1.35;
+  padding: 0.2rem 0.35rem;
+  text-decoration: none;
+  transition:
+    background-color 150ms ease-out,
+    color 150ms ease-out,
+    transform 150ms ease-out;
+}
+
+.toc a:hover,
+.toc a:focus-visible {
+  background: var(--code-bg);
+  color: var(--primary);
+  transform: translateX(2px);
+}
+
+.toc a:focus-visible {
+  outline: 2px solid var(--secondary);
+  outline-offset: 2px;
+}
+
+@media (min-width: 1180px) {
+  .toc {
+    backdrop-filter: blur(12px);
+    border-radius: 8px 0 0 8px;
+    box-shadow: 0 8px 24px rgb(0 0 0 / 0.07);
+    margin-bottom: 0;
+    max-width: 14rem;
+    padding: 0.55rem;
+    position: fixed;
+    right: 0;
+    top: calc(var(--header-height) + 1.5rem);
+    width: 14rem;
+    z-index: 5;
+  }
+
+  .toc .inner {
+    max-height: calc(100dvh - var(--header-height) - 8rem);
+    padding-left: 0.25rem;
+    padding-right: 0.15rem;
+  }
+
+  .toc li {
+    margin-top: 0.18rem;
+  }
+
+  .toc li ul {
+    margin-top: 0.2rem;
+    padding-left: 0.45rem;
+  }
+}
+
+@media (min-width: 1180px) and (max-width: 1240px) {
+  .toc {
+    max-width: 12.5rem;
+    width: 12.5rem;
+  }
+
+  .toc a {
+    font-size: 0.78rem;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .toc details summary,
+  .toc a {
+    transition: none;
+  }
+
+  .toc a:hover,
+  .toc a:focus-visible {
+    transform: none;
+  }
 }
