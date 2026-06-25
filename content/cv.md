@@ -1,8 +1,9 @@
 ---
 title: "CV"
-layout: "single"
+layout: "cv"
 url: "/cv/"
 summary: "Curriculum vitae"
+hideFooter: true
 ---
 
 # Kim YeongHyeon
