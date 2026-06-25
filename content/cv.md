@@ -60,6 +60,13 @@ Core topics: CT metal artifact reduction, few-shot learning, target-trial emulat
 - Developed a CT metal artifact reduction and enhancement model for the AAPM Grand Challenge.
 - Designed graph-based CT metal artifact reduction approaches using LangGraph.
 
+### DB Insurance (DB손해보험)
+**Senior Staff**
+
+*Oct 2022 - Nov 2023*
+
+- Worked as senior staff at DB Insurance.
+
 ### FA Solution
 **AI Researcher**
 

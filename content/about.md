@@ -44,6 +44,11 @@ My work connects two tracks: robust medical imaging methods, especially CT metal
 - Developed CT metal artifact reduction and enhancement methods
 - Ranked 21st overall in the AAPM Grand Challenge
 
+### DB Insurance (DB손해보험)
+**Senior Staff** | Oct 2022 - Nov 2023
+
+- Worked as senior staff at DB Insurance
+
 ### FA Solution
 **AI Researcher** | Mar 2021 - Oct 2022
 
