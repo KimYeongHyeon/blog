@@ -2,7 +2,7 @@
 
 ## 1. Atmosphere & Identity
 
-A quiet academic dossier: readable, restrained, and easy to scan. The signature is a right-side table-of-contents island that keeps long CV pages navigable without competing with the content.
+A quiet academic dossier: readable, restrained, and easy to scan. The signature is a compact right-edge table-of-contents island that keeps long CV pages navigable without competing with the content.
 
 ## 2. Color
 
@@ -71,13 +71,14 @@ All spacing derives from a base of 4px.
 
 ## 5. Components
 
-### Floating ToC Island
+### Compact ToC Island
 
 - **Structure**: PaperMod `.toc` rendered before `.post-content`.
-- **Variants**: inline on narrow viewports, fixed right rail on desktop.
-- **Spacing**: `--space-3`, `--space-4`, `--space-6`.
+- **Variants**: inline on narrow viewports, fixed to the right edge on desktop.
+- **Content**: top-level sections only; no visible title label.
+- **Spacing**: `--space-2`, `--space-3`, `--space-4`.
 - **States**: hover, active, focus-visible.
-- **Accessibility**: preserve semantic `<details>`, `<summary>`, and anchor links.
+- **Accessibility**: preserve semantic anchor links.
 - **Motion**: color and transform transitions only.
 
 ## 6. Motion & Interaction
