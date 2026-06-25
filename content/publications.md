@@ -7,11 +7,20 @@ summary: "Research Publications"
 
 ## Journal Articles
 
+### 2026
+
+**Adaptive thresholding for CT metal artifact reduction via LangGraph**  
+Yeonghyeon Kim and Kyungsang Kim and Dongheon Lee  
+*Physics in Medicine & Biology*  
+[[Paper]](https://iopscience.iop.org/article/10.1088/1361-6560/ae7ec4)
+
+---
+
 ### 2025
 
 **Quantification of left ventricular mass in multiple views of echocardiograms using model-agnostic meta learning in a few-shot setting**  
 Yeong Hyeon Kim and Donghoon Kim and Jin Young Youm and Jiyoon Won and Seola Kim and Woohyun Park and Yisak Kim and Dongheon Lee  
-*Unknown Venue*  
+*PeerJ Computer Science*  
 [[Paper]](https://peerj.com/articles/cs-3161/)
 
 ---
@@ -81,7 +90,11 @@ Minhaz Uddin Ahmed and Kim Jin Woo and Kim Yeong Hyeon and Md Rezaul Bashar and 
 - Data Analysis
 - Active Learning
 - Object Detection
+- Medical Image Analysis
+- CT Metal Artifact Reduction
+- Target-trial Emulation
+- Real-world Evidence
 
 ---
 
-*Last updated: May 2026*
+*Last updated: June 2026*

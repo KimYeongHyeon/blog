@@ -1,6 +1,6 @@
-# Research Portfolio Website
+# CV
 
-A professional researcher portfolio built with Hugo and the PaperMod theme.
+A CV-focused researcher portfolio built with Hugo and the PaperMod theme.
 
 ## Features
 
@@ -8,6 +8,7 @@ A professional researcher portfolio built with Hugo and the PaperMod theme.
 - 📚 **Publications Page** - Showcase your research papers
 - 🔬 **Projects Page** - Display your research projects
 - 📄 **About Page** - Complete academic profile
+- 🧾 **CV Page** - Browser-readable curriculum vitae
 - 🔍 **Search Functionality** - Easy content discovery
 - 🌓 **Dark/Light Mode** - Automatic theme switching
 - 📱 **Responsive Design** - Works on all devices
@@ -36,7 +37,7 @@ The static site will be generated in the `public/` directory.
 ### Update Your Profile
 
 Edit `hugo.toml` to update:
-- Your name and title
+- The site name and profile title
 - Social media links
 - Profile image
 - Button links
@@ -102,7 +103,11 @@ Edit `content/about.md` to include:
 
 ## Adding Content
 
-### Add Your CV
+### Update Your CV Page
+
+Edit `content/cv.md` to update the browser-readable CV.
+
+### Add Your CV PDF
 
 Place your CV PDF in the `static/` directory:
 ```bash

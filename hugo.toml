@@ -1,11 +1,11 @@
-baseURL = 'https://kimyeonghyeon.github.io/blog/'
-languageCode = 'en-us'
-title = 'Kim YeongHyeon'
+baseURL = 'https://kimyeonghyeon.github.io/CV/'
+locale = 'en-us'
+title = 'CV'
 theme = 'PaperMod'
 
 [params]
 env = "production"
-description = "PhD Student in Biomedical AI | Medical Image Analysis Research"
+description = "Ph.D Student @ BiLab, SNU | Biomedical AI and Medical Image Analysis"
 author = "Kim YeongHyeon"
 
 # Theme settings
@@ -27,12 +27,12 @@ tocopen = false
 # Profile mode
 [params.profileMode]
 enabled = true
-title = "Kim YeongHyeon"
-subtitle = "PhD Student | Biomedical AI Researcher"
-imageUrl = "profile.jpg"
-imageTitle = "Profile Picture"
-imageWidth = 120
-imageHeight = 120
+title = "CV"
+subtitle = "Kim YeongHyeon | Ph.D Student @ BiLab, SNU"
+
+[[params.profileMode.buttons]]
+name = "CV"
+url = "/cv"
 
 [[params.profileMode.buttons]]
 name = "Publications"
@@ -41,10 +41,6 @@ url = "/publications"
 [[params.profileMode.buttons]]
 name = "Projects"
 url = "/projects"
-
-[[params.profileMode.buttons]]
-name = "CV"
-url = "/cv.pdf"
 
 # Social icons
 [[params.socialIcons]]
@@ -65,28 +61,34 @@ url = "https://www.linkedin.com/in/yeonghyeon-kim/"
 
 # Menu
 [[menu.main]]
+identifier = "cv"
+name = "CV"
+url = "/cv/"
+weight = 10
+
+[[menu.main]]
 identifier = "about"
 name = "About"
 url = "/about/"
-weight = 10
+weight = 20
 
 [[menu.main]]
 identifier = "publications"
 name = "Publications"
 url = "/publications/"
-weight = 20
+weight = 30
 
 [[menu.main]]
 identifier = "projects"
 name = "Projects"
 url = "/projects/"
-weight = 30
+weight = 40
 
 [[menu.main]]
 identifier = "search"
 name = "Search"
 url = "/search/"
-weight = 40
+weight = 50
 
 [outputs]
 home = ["HTML", "RSS", "JSON"]
