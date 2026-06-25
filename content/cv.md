@@ -91,15 +91,6 @@ Core topics: CT metal artifact reduction, few-shot learning, target-trial emulat
 
 ## Awards & Honors
 
-### Grand Prize - Korea Clinical Datathon 2025
-**TELOS - Target-trial Emulation & Learning-Oriented System**
-
-*Oct 2025*
-
-- Led the team that won the Grand Prize at KCD2025.
-- Built a multi-agent framework for emulating registered clinical trials with observational data.
-- Integrated trial protocol extraction, MIMIC-IV cohort selection, statistical analysis, and automated reporting.
-
 ### Excellence Award - AI Co-Scientist Challenge Korea 2026
 **President of the Korea Institute of Science and Technology Award**
 
@@ -108,6 +99,15 @@ Core topics: CT metal artifact reduction, few-shot learning, target-trial emulat
 - Placed 4th overall at the 2026 AI Co-Scientist Challenge Korea.
 - Developed an OMOP-CDM-compatible target trial emulation workflow.
 - Covered cohort extraction, causal inference, propensity score matching, and clinical report generation.
+
+### Grand Prize - Korea Clinical Datathon 2025
+**TELOS - Target-trial Emulation & Learning-Oriented System**
+
+*Oct 2025*
+
+- Led the team that won the Grand Prize at KCD2025.
+- Built a multi-agent framework for emulating registered clinical trials with observational data.
+- Integrated trial protocol extraction, MIMIC-IV cohort selection, statistical analysis, and automated reporting.
 
 ### AAPM Grand Challenge
 **CT Metal Artifact Reduction**

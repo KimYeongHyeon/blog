@@ -61,17 +61,17 @@ My work connects two tracks: robust medical imaging methods, especially CT metal
 
 ## Awards & Honors
 
-### Grand Prize - Korea Clinical Datathon 2025
-**TELOS - Target-trial Emulation & Learning-Oriented System**
-
-- Led the team that won the Grand Prize at KCD2025
-- Built a multi-agent framework for emulating registered clinical trials with observational data
-
 ### Excellence Award - AI Co-Scientist Challenge Korea 2026
 **President of the Korea Institute of Science and Technology Award**
 
 - Placed 4th overall
 - Built an OMOP-CDM-compatible target trial emulation workflow
+
+### Grand Prize - Korea Clinical Datathon 2025
+**TELOS - Target-trial Emulation & Learning-Oriented System**
+
+- Led the team that won the Grand Prize at KCD2025
+- Built a multi-agent framework for emulating registered clinical trials with observational data
 
 ## Invited Talks
 
