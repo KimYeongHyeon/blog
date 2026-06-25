@@ -102,4 +102,4 @@ My work connects two tracks: robust medical imaging methods, especially CT metal
 
 - **Email:** [yeonghyeon.kim@snu.ac.kr](mailto:yeonghyeon.kim@snu.ac.kr)
 - **Google Scholar:** [Profile](https://scholar.google.co.kr/citations?user=cLAlajcAAAAJ&hl=ko)
-- **LinkedIn:** [Profile](https://www.linkedin.com/in/yeonghyeon-kim/)
+- **LinkedIn:** [https://www.linkedin.com/in/yeonghyeon-kim/](https://www.linkedin.com/in/yeonghyeon-kim/)

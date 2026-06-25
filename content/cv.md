@@ -12,8 +12,8 @@ summary: "Curriculum vitae"
 - Seoul National University, Republic of Korea
 - **Email:** [yeonghyeon.kim@snu.ac.kr](mailto:yeonghyeon.kim@snu.ac.kr)
 - **Google Scholar:** [Profile](https://scholar.google.co.kr/citations?user=cLAlajcAAAAJ&hl=ko)
-- **GitHub:** [KimYeongHyeon](https://github.com/KimYeongHyeon)
-- **LinkedIn:** [YeongHyeon Kim](https://www.linkedin.com/in/yeonghyeon-kim/)
+- **GitHub:** [https://github.com/KimYeongHyeon](https://github.com/KimYeongHyeon)
+- **LinkedIn:** [https://www.linkedin.com/in/yeonghyeon-kim/](https://www.linkedin.com/in/yeonghyeon-kim/)
 
 ## Research Focus
 
