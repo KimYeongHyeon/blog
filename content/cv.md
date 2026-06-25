@@ -155,6 +155,32 @@ Core topics: CT metal artifact reduction, few-shot learning, target-trial emulat
 - Converted 39 BigQuery SQL files, with 92% converted automatically.
 - Verified OHDSI unit tests, view creation, integrity checks, and DataQualityDashboard results.
 
+### clinical-ontology-embeddings/omop-medcat-silver
+**Python - OMOP-targeted MedCAT silver sentence dataset**
+
+*2026*
+
+- Maintained a regeneration recipe for an OMOP-targeted MedCAT-derived silver sentence dataset.
+- Repository: [https://github.com/clinical-ontology-embeddings/omop-medcat-silver](https://github.com/clinical-ontology-embeddings/omop-medcat-silver)
+
+### snubilab/metric-dashboard
+**TypeScript - Educational metric dashboard for medical imaging and ML evaluation**
+
+*2026*
+
+- Built an educational React/Vite dashboard for learning medical-imaging and machine-learning evaluation metrics.
+- Live site: [https://snubilab.github.io/metric-dashboard/](https://snubilab.github.io/metric-dashboard/)
+- Repository: [https://github.com/snubilab/metric-dashboard](https://github.com/snubilab/metric-dashboard)
+
+### KimYeongHyeon/ICML_2026_Browser
+**HTML - ICML 2026 materials browser**
+
+*2026*
+
+- Built a browser for ICML 2026 papers, posters, and workshop materials.
+- Live site: [https://kimyeonghyeon.github.io/ICML_2026_Browser/](https://kimyeonghyeon.github.io/ICML_2026_Browser/)
+- Repository: [https://github.com/KimYeongHyeon/ICML_2026_Browser](https://github.com/KimYeongHyeon/ICML_2026_Browser)
+
 ## Skills
 
 - **Programming:** Python, MATLAB

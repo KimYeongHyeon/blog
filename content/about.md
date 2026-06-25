@@ -95,6 +95,28 @@ My work connects two tracks: robust medical imaging methods, especially CT metal
 - **Hierarchical open-set object detection in unseen data**
   *Symmetry*, 2019
 
+## Open Source
+
+### clinical-ontology-embeddings/omop-medcat-silver
+**Python - OMOP-targeted MedCAT silver sentence dataset**
+
+- Maintained a regeneration recipe for an OMOP-targeted MedCAT-derived silver sentence dataset.
+- Repository: [https://github.com/clinical-ontology-embeddings/omop-medcat-silver](https://github.com/clinical-ontology-embeddings/omop-medcat-silver)
+
+### snubilab/metric-dashboard
+**TypeScript - Educational metric dashboard for medical imaging and ML evaluation**
+
+- Built an educational React/Vite dashboard for learning medical-imaging and machine-learning evaluation metrics.
+- Live site: [https://snubilab.github.io/metric-dashboard/](https://snubilab.github.io/metric-dashboard/)
+- Repository: [https://github.com/snubilab/metric-dashboard](https://github.com/snubilab/metric-dashboard)
+
+### KimYeongHyeon/ICML_2026_Browser
+**HTML - ICML 2026 materials browser**
+
+- Built a browser for ICML 2026 papers, posters, and workshop materials.
+- Live site: [https://kimyeonghyeon.github.io/ICML_2026_Browser/](https://kimyeonghyeon.github.io/ICML_2026_Browser/)
+- Repository: [https://github.com/KimYeongHyeon/ICML_2026_Browser](https://github.com/KimYeongHyeon/ICML_2026_Browser)
+
 ## Skills
 
 - **Programming:** Python, MATLAB

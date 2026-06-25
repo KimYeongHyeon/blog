@@ -210,6 +210,11 @@ body:has(.resumate-page) > .main {
   box-sizing: border-box;
 }
 
+.resumate-page a {
+  overflow-wrap: anywhere;
+  word-break: normal;
+}
+
 .resumate-sheet {
   background: var(--paper);
   border-top: 4px solid var(--accent-blue);
