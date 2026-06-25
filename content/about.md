@@ -35,10 +35,6 @@ My work connects two tracks: robust medical imaging methods, especially CT metal
 
 - Biomedical AI, medical image analysis, and real-world evidence generation
 - CT metal artifact reduction, few-shot learning, and agentic clinical research systems
-
-### Independent Research
-**LangGraph-based CT Metal Artifact Reduction** | Dec 2024 - Present
-
 - Developed LangGraph-MAR for CT metal artifact reduction
 - Published the work in *Physics in Medicine & Biology*
 

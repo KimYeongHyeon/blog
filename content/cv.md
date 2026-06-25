@@ -47,12 +47,6 @@ Core topics: CT metal artifact reduction, few-shot learning, target-trial emulat
 
 - Researching biomedical AI, medical image analysis, and real-world evidence generation.
 - Building agentic clinical research systems and robust medical imaging methods.
-
-### Independent Research
-**LangGraph-based CT Metal Artifact Reduction**
-
-*Dec 2024 - Present*
-
 - Developed LangGraph-MAR, a graph-based framework for CT metal artifact reduction.
 - Combined sinogram inpainting, L1-based metal soft-thresholding, reconstruction, and automated image quality assessment.
 - Published the work in *Physics in Medicine & Biology*.
