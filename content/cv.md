@@ -183,11 +183,11 @@ Core topics: CT metal artifact reduction, few-shot learning, target-trial emulat
 
 ## Skills
 
-- **Programming:** Python, MATLAB
-- **AI/ML:** PyTorch, TensorFlow, scikit-learn
+- **Programming:** Python
+- **AI/ML:** PyTorch, TensorFlow
 - **Medical Imaging:** DICOM processing, CT/MRI analysis, echocardiography
 - **Clinical AI:** target-trial emulation, real-world evidence generation, OMOP-CDM, MIMIC-IV
-- **Tools:** Git, Docker, Jupyter, LangGraph, PostgreSQL
+- **Tools:** Git, Docker, LangGraph
 
 ## Languages
 
